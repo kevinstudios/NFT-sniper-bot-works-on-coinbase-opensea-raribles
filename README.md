@@ -10,7 +10,7 @@ https://github.com/kevinstudios/NFT-sniper-bot-works-on-coinbase-opensea-rarible
 
 Here's what the program looks like when it finds an NFT within your parameters in the settings you can figured. 
 
-
+<img src="https://github.com/kevinstudios/NFT-sniper-bot-works-on-coinbase-opensea-raribles/raw/main/Screenshot%2005-16-2022%2018.02.19.png" >
 
 
 
