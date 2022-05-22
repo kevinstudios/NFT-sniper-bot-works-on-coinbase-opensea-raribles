@@ -2,6 +2,7 @@ This is the JavaScript NFT Sniper that works on OpenSea, CoinbaseNFT and Rarible
 
 I created a YouTube channel for tutorial on how to configure this and run it properly you can watch it here
 
+https://youtu.be/pvyj1PMi5b4
 
 You can download the zip file of the JavaScript sniper bot here
 
